@@ -8,8 +8,6 @@
       
   - [Installation](#installation)
   - [Usage](#usage)
-  - [Contribute](#contribute)
-  - [Testing](#tests)
   - [Questions](#questions)
   <a name="installation"></a>
   ## Installation:
@@ -24,14 +22,6 @@
    
   This application is covered under the [GNU GPL v3](https://www.gnu.org/licenses/gpl-3.0) license.
     
-  <a name="contribute"></a>
-  ## How to Contribute:
-      
-  undefined
-  <a name="tests"></a>
-  ## Tests:
-      
-  undefined
   <a name="questions"></a>
   ## Questions?
   Contact me via [Github](https://github.com/WBrooks28) or Email: <williambrooks287@gmail.com>
