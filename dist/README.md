@@ -1,8 +1,8 @@
 
-  # Test Project | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  # Dick n balls | [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
   ## About the Project:
       
-  This is a test
+  Where the pee is stored
       
   ## Table of Contents
       
@@ -14,25 +14,25 @@
   <a name="installation"></a>
   ## Installation:
       
-  Test install instructions
+  Vagine
   <a name="usage"></a>
   ## Usage Information:
       
-  Usages test 
+  Use it good n hard 
   
   ## License
    
-  This application is covered under the [MIT](https://opensource.org/licenses/MIT) license.
+  This application is covered under the [GNU GPL v3](https://www.gnu.org/licenses/gpl-3.0) license.
     
   <a name="contribute"></a>
   ## How to Contribute:
       
-  Contributor test
+  Take out the dick n balls sensually
   <a name="tests"></a>
   ## Tests:
       
-  test test
+  Get tested often at ur local planned parenthood
   <a name="questions"></a>
   ## Questions?
-  Contact me via [Github](https://github.com/WBrooks28) or Email: <williambrooks287@gmail.com>
+  Contact me via [Github](https://github.com/nah i'm good) or Email: <thanks>
 
